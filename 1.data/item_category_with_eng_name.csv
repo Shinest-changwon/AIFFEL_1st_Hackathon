@@ -1,0 +1,85 @@
+item_category_id,item_category_name,item_category_name_eng
+0,PC - Гарнитуры/Наушники,PC - Headsets / Headphones
+1,Аксессуары - PS2,Accessories - PS2
+2,Аксессуары - PS3,Accessories - PS3
+3,Аксессуары - PS4,Accessories - PS4
+4,Аксессуары - PSP,Accessories - PSP
+5,Аксессуары - PSVita,Accessories - PSVita
+6,Аксессуары - XBOX 360,Accessories - XBOX 360
+7,Аксессуары - XBOX ONE,Accessories - XBOX ONE
+8,Билеты (Цифра),Tickets (Number)
+9,Доставка товара,Delivery of goods
+10,Игровые консоли - PS2,Game consoles - PS2
+11,Игровые консоли - PS3,Game consoles - PS3
+12,Игровые консоли - PS4,Game consoles - PS4
+13,Игровые консоли - PSP,Game consoles - PSP
+14,Игровые консоли - PSVita,Game consoles - PSVita
+15,Игровые консоли - XBOX 360,Game consoles - XBOX 360
+16,Игровые консоли - XBOX ONE,Game consoles - XBOX ONE
+17,Игровые консоли - Прочие,Game Consoles - Other
+18,Игры - PS2,Games - PS2
+19,Игры - PS3,Games - PS3
+20,Игры - PS4,Games - PS4
+21,Игры - PSP,Games - PSP
+22,Игры - PSVita,Games - PSVita
+23,Игры - XBOX 360,Games - XBOX 360
+24,Игры - XBOX ONE,Games - XBOX ONE
+25,Игры - Аксессуары для игр,Games - Game Accessories
+26,Игры Android - Цифра,Android Games - Number
+27,Игры MAC - Цифра,MAC Games - Number
+28,Игры PC - Дополнительные издания,PC Games - Additional Editions
+29,Игры PC - Коллекционные издания,PC Games - Collector's Editions
+30,Игры PC - Стандартные издания,PC Games - Standard Editions
+31,Игры PC - Цифра,PC Games - Number
+32,"Карты оплаты (Кино, Музыка, Игры)","Payment cards (Cinema, Music, Games)"
+33,Карты оплаты - Live!,Payment cards - Live!
+34,Карты оплаты - Live! (Цифра),Payment cards - Live! (Numeral)
+35,Карты оплаты - PSN,Payment cards - PSN
+36,Карты оплаты - Windows (Цифра),Payment Cards - Windows (Digital)
+37,Кино - Blu-Ray,Cinema - Blu-Ray
+38,Кино - Blu-Ray 3D,Cinema - Blu-Ray 3D
+39,Кино - Blu-Ray 4K,Cinema - Blu-Ray 4K
+40,Кино - DVD,Movie - DVD
+41,Кино - Коллекционное,Cinema - Collector's
+42,"Книги - Артбуки, энциклопедии","Books - Artbooks, encyclopedias"
+43,Книги - Аудиокниги,Books - Audiobooks
+44,Книги - Аудиокниги (Цифра),Books - Audiobooks (Digital)
+45,Книги - Аудиокниги 1С,Books - Audiobooks 1C
+46,Книги - Бизнес литература,Books - Business Literature
+47,"Книги - Комиксы, манга","Books - Comics, manga"
+48,Книги - Компьютерная литература,Books - Computer Literature
+49,Книги - Методические материалы 1С,Books - Methodological materials 1C
+50,Книги - Открытки,Books - Postcards
+51,Книги - Познавательная литература,Books - Educational literature
+52,Книги - Путеводители,Books - Guides
+53,Книги - Художественная литература,Books - Fiction
+54,Книги - Цифра,Books - Number
+55,Музыка - CD локального производства,Music - locally produced CD
+56,Музыка - CD фирменного производства,Music - branded CD
+57,Музыка - MP3,Music - MP3
+58,Музыка - Винил,Music - Vinyl
+59,Музыка - Музыкальное видео,Music - Music video
+60,Музыка - Подарочные издания,Music - Gift Editions
+61,Подарки - Атрибутика,Gifts - Attributes
+62,"Подарки - Гаджеты, роботы, спорт","Gifts - Gadgets, Robots, Sports"
+63,Подарки - Мягкие игрушки,Gifts - Stuffed Toys
+64,Подарки - Настольные игры,Gifts - Board Games
+65,Подарки - Настольные игры (компактные),Gifts - Board Games (Compact)
+66,"Подарки - Открытки, наклейки","Gifts - Postcards, stickers"
+67,Подарки - Развитие,Gifts - Development
+68,"Подарки - Сертификаты, услуги","Gifts - Certificates, services"
+69,Подарки - Сувениры,Gifts - Souvenirs
+70,Подарки - Сувениры (в навеску),Gifts - Souvenirs (hinged)
+71,"Подарки - Сумки, Альбомы, Коврики д/мыши","Gifts - Bags, Albums, Mouse Pads"
+72,Подарки - Фигурки,Gifts - Figures
+73,Программы - 1С:Предприятие 8,Programs - 1C: Enterprise 8
+74,Программы - MAC (Цифра),Programs - MAC (Digital)
+75,Программы - Для дома и офиса,Programs - For Home and Office
+76,Программы - Для дома и офиса (Цифра),Programs - For Home and Office (Digital)
+77,Программы - Обучающие,Programs - Educational
+78,Программы - Обучающие (Цифра),Programs - Educational (Digital)
+79,Служебные,Service
+80,Служебные - Билеты,Service - Tickets
+81,Чистые носители (шпиль),Blank media (spire)
+82,Чистые носители (штучные),Blank media (piece)
+83,Элементы питания,Batteries
